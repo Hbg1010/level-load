@@ -1,3 +1,6 @@
+## 1.1.4
+- Ported to 2.2081 and Geode v5.0.0
+
 ## 1.1.3
 - Fix an Android crash affecting levels containing ParticleGameObject
 - Update to Geode v4.8.0
